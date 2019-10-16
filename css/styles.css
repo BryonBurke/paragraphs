@@ -1,0 +1,10 @@
+p.intro{
+  width: 50%;
+  font-style: italic;
+}
+
+p.author{
+  width: 80%;
+  font-weight: bold;
+  font-style: italic;
+}
